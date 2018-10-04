@@ -2,7 +2,7 @@
   <img style="width:30%;align:left" src="https://github.com/eth-ait/HCI-fall-2018-project-page/blob/master/img/logo-ait.png">             
 </p>
 
-# Sense users musical mood, Group 11
+# Sense Users Musical Mood, Group 11
 #### Nathaniel, Florian, Alexandre, Livio, Timon
 
 ## Project description
