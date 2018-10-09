@@ -21,7 +21,7 @@ Everybody listens to music! The goal is to bring the music system a step further
 ### Personas
 
 Who are the users?
-We came up with three interest groups and a concrete sample of a person that fits the given lifestyles.
+We came up with three interest groups and a concrete samples of a person that fits the given lifestyles.
 
 #### Peter, 62
 <img align="left" width="80" height="80" src="img/persona_peter.png">
