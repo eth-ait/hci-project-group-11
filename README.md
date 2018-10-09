@@ -42,7 +42,7 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 
     TODO
 
-### todo
+### ToDo
     TODO
 Start with the key requirements/needs of the users / the company
 Then list your initial ideas (min. 3) with a brief description.
