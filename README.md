@@ -15,7 +15,7 @@ Everybody listens to music! The goal is to bring the music system a step further
 ### Requirements
 - Active Lifestyle
 - Being aware of what the user wants to listen to
-- Providing teh user with appropriate music at any time
+- Providing the user with appropriate music at any time
 - No extra hardware to carry around (use phone/speaker hardware)
 
 ### Personas
