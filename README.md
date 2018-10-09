@@ -24,6 +24,7 @@ Who are the users?
 We came up with three interest groups and a concrete sample of a person that fits the given lifestyles.
 
 #### Peter, 62
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
 Senior System Administrator: misses the good old days of radio. Listens to a lot of music but he always gets interrupted by colleagues. Stressful job, wants to put on headphones and then just have some music going. Doesn’t want to be bothered getting out the phone all the time just to adjust the music.
 
 #### John, 28
