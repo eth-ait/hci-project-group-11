@@ -29,13 +29,13 @@ Senior System Administrator: misses the good old days of radio. Listens to a lot
 
 
 #### John, 28
-<img align="left" width="50" height="80" src="img/persona_john.png">
-Construction worker: Casually listens to music. But if he feels like he needs some music, he just wants to put on headphones and have some good music started. Doesn’t want to search ages for some track.
+<img align="left" width="65" height="80" src="img/persona_john.png">
+Construction worker: Casually listens to music. But if he feels like he needs some music, he just wants to put on headphones and have some good music started. Doesn’t want to search ages for some music track he could listen to right now. Most of the time he just listens to the weekly discovery in spotify since he doesn't has any extensive playlists.
 
 
 
 #### Courtney, 21
-<img align="80" width="80" height="120" src="img/persona_courtney.png">
+<img align="left" width="80" height="80" src="img/persona_courtney.png">
 Instagram Influencer: Plans out all details of her life and takes pictures of everything. Takes public transportation to move between photo shoots, cafe hopping and bringing her dog on walks. Has tons of playlists and songs saved for each given task. Listens to her specific songs given what she is doing right now and how she is feeling. She has different playlists for doing yoga, go running, studying, hanging out with friends and going to bed but also for when she feels sad, lonely or when she is happy and excited.
 
 ### Affinity Clusters
