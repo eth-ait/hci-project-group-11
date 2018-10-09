@@ -27,9 +27,12 @@ We came up with three interest groups and a concrete sample of a person that fit
 <img align="left" width="120" height="120" src="img/persona_peter.png">
 Senior System Administrator: misses the good old days of radio. Listens to a lot of music but he always gets interrupted by colleagues. Stressful job, wants to put on headphones and then just have some music going. Doesn’t want to be bothered getting out the phone all the time just to adjust the music.
 
+
 #### John, 28
 <img align="left" width="90" height="150" src="img/persona_john.png">
 Construction worker: Casually listens to music. But if he feels like he needs some music, he just wants to put on headphones and have some good music started. Doesn’t want to search ages for some track.
+
+
 
 #### Courtney, 21
 <img align="left" width="120" height="120" src="img/persona_courtney.png">
