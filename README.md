@@ -24,7 +24,7 @@ Who are the users?
 We came up with three interest groups and a concrete sample of a person that fits the given lifestyles.
 
 #### Peter, 62
-Senior System Administrator : misses the good old days of radio. Listens to a lot of music but he always gets interrupted by colleagues. Stressful job, wants to put on headphones and then just have some music going. Doesn’t want to be bothered getting out the phone all the time just to adjust the music.
+Senior System Administrator: misses the good old days of radio. Listens to a lot of music but he always gets interrupted by colleagues. Stressful job, wants to put on headphones and then just have some music going. Doesn’t want to be bothered getting out the phone all the time just to adjust the music.
 
 #### John, 28
 Construction worker: Casually listens to music. But if he feels like he needs some music, he just wants to put on headphones and have some good music started. Doesn’t want to search ages for some track.
@@ -36,6 +36,7 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 
     TODO
 
+### todo
     TODO
 Start with the key requirements/needs of the users / the company
 Then list your initial ideas (min. 3) with a brief description.
