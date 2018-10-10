@@ -61,7 +61,7 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 - Improve music selection
 - Support current ambience
 - Suggest songs
-- Reduce burden for searching for music 
+- Reduce burden of searching for music 
 
 #### Hardware
 - Mood Button
