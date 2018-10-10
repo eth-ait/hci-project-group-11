@@ -40,7 +40,35 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 
 ### Affinity Clusters
 
-    TODO
+#### Software Features
+- Artifical Intelligence
+- Voice Control (Alexa, Siri, ...)
+- Extension to existing Raumfeld App
+
+#### Teufel Brand
+- Do it different
+- Niche products
+- Experimental & crazy stuff
+- Fans as customers
+- Direct resell to customers
+
+#### Music Expreience
+- Make music more enjoyable
+- Boost emotions
+- Improve music selection
+- Support current ambience
+- Suggest songs
+- Reduce burden for searching for music 
+
+#### Hardware
+- Mood Button
+- Lightning Sensor
+- Microphone
+
+#### Moods/Emotions
+- Intense, cool, fun
+- Loud
+- Exciting
 
 ### ToDo
     TODO
