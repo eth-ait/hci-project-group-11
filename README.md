@@ -65,7 +65,7 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 - Lightning Sensor
 - Microphone
 
-#### Moods/Emotions
+#### Moods/Emotions/Experience
 - Intense, cool, fun
 - Loud
 - Exciting
