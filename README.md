@@ -40,7 +40,7 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 
 ### Affinity Clusters
 
-<img align="left" width="65" height="80" src="img/affinitycluster_overview.jpeg">
+<img align="left" width="65" height="80" src="img/affinityclusters_overview.jpeg">
 
 #### Software Features
 - Artifical Intelligence
