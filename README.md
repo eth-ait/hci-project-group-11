@@ -40,6 +40,8 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 
 ### Affinity Clusters
 
+<img align="left" width="65" height="80" src="img/affinitycluster_overview.jpeg">
+
 #### Software Features
 - Artifical Intelligence
 - Voice Control (Alexa, Siri, ...)
