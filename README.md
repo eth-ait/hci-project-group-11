@@ -13,10 +13,11 @@ Everybody listens to music! The goal is to bring the music system a step further
 ## Ideas
 
 ### Requirements
-- Active Lifestyle
-- Being aware of what the user wants to listen to
-- Providing the user with appropriate music at any time
-- No extra hardware to carry around (use phone/speaker hardware)
+- Be able to find/discover/select the next song easily
+- Create a seamless music experience across multiple devices/speakers
+- Reduce interaction time needed to control music devices (improve on user experience of plug in earphones/turn on home speaker, pulling out smartphone, unlock phone, open Spotify, start play button)
+- No need for extra hardware to carry with (using native speaker hardware or phone)
+
 
 ### Personas
 
