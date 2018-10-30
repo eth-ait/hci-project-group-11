@@ -42,7 +42,6 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 ### Affinity Clusters
 
 <img align="width:30%;align:left" src="img/affinityclusters_overview.jpeg">
-<p>
 
 #### Software Features
 - Artifical Intelligence
@@ -91,15 +90,15 @@ Use information from the environment (volume, amout of people, devices nearby) t
 
 ### First draft
 
-<img align="width:30%;align:left" src="img/idea_scheduler.jpg">
+<img align="left" width="200" src="img/idea_scheduler.jpg">
 
-<img align="width:30%;align:left" src="img/idea_moodgrid.jpg">
+<img align="left" width="200" src="img/idea_moodgrid.jpg">
 
-<img align="width:30%;align:left" src="img/idea_moodselection.jpg">
+<img align="left" width="200" src="img/idea_moodselection.jpg">
 
-<img align="width:30%;align:left" src="img/idea_sensors.jpg">
+<img align="left" width="200" src="img/idea_sensors.jpg">
 
-<img align="width:30%;align:left" src="img/idea_socialmusic.jpg">
+<img align="left" width="200" src="img/idea_socialmusic.jpg">
 
     
 ## Evaluation
