@@ -74,13 +74,18 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 - Loud
 - Exciting
 
-### ToDo
-    TODO
-Start with the key requirements/needs of the users / the company
-Then list your initial ideas (min. 3) with a brief description.
-Upload the PPT presentation that you discussed with the stakeholder to the "deliverables" folder and include the link here. 
+### Initial project ideas
 
-Optional: in this part you can document the needfinding, ideation, and prototyping process (e.g. describe personas, show affinity clusters, etc. ) (Weeks 3-6)
+See [our presentation](Deliverables/presentation_ideas_10_18.pdf) for the detailed write-up.
+
+#### The Big Teufel Button
+A Surprise me button that features easy-to use instant-music.
+
+#### Blast to the Past
+Reminder of music you liked to play to boost your mood. Map locations to music to bring you back on a mind trip through old times.
+
+#### Social Music
+Use information from the environment (volume, amout of people, devices nearby) to select according playlists to match the mood of all guests.
     
 ## Evaluation
     TODO
