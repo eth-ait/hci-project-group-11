@@ -56,7 +56,7 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 - Fans as customers
 - Direct resell to customers
 
-#### Music Expreience
+#### Music Experience
 - Make music more enjoyable
 - Boost emotions
 - Improve music selection
@@ -86,6 +86,21 @@ Reminder of music you liked to play to boost your mood. Map locations to music t
 
 #### Social Music
 Use information from the environment (volume, amout of people, devices nearby) to select according playlists to match the mood of all guests.
+
+## Prototyping
+
+### First draft
+
+<img align="width:30%;align:left" src="img/idea_scheduler.jpg">
+
+<img align="width:30%;align:left" src="img/idea_moodgrid.jpg">
+
+<img align="width:30%;align:left" src="img/idea_moodselection.jpg">
+
+<img align="width:30%;align:left" src="img/idea_sensors.jpg">
+
+<img align="width:30%;align:left" src="img/idea_socialmusic.jpg">
+
     
 ## Evaluation
     TODO
