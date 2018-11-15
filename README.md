@@ -127,11 +127,11 @@ The attribute words we chose to evaluate were: loudness, happiness, speechiness,
 
 WE conducted a survey asking users to rate 3 songs based on these attributes. The results were as follows:
 
-![](img/survey_avg.png | width=300)
-![](img/survey_stddev.png | width=300)
+![](img/survey_avg.png?s=300)
+![](img/survey_stddev.png?s=300)
 
 WE then compared these values to the values provided to us by Spotify:
-![](img/survey_error.png | width=300)
+![](img/survey_error.png?s=300)
 
 Based on the results of the initial survey, it was not clear if there was a subset of distinguishing characteristics that users would likely be able to . There was a wide spread in opinion amongst respondents. However in terms of accuracy (compared with the Spotify-generated feature values), loudness, energy and happiness topped the list in being consistent compared to user's understandings of the attribute words.
 
