@@ -117,6 +117,11 @@ The second interface uses a navigator in a 2D grid that can freely be moved arou
     TODO: Social feature: what is it, what do we try to achieve
     
 ## Evaluation
+
+In a first iteration we want to find out what factors are used best to help identify a user's mood and how to assign those factors to a given song.
+
+To do so we set up a survey that that first asks the user to select factors that the user associates most with mood. This will help us determine which factors we should use on the interface.
+In the second step the user listens to three different songs and has to determine for each given factor how much that song corresponds to a given factor. For example in a classic piece of Mozart the "dancability" factor is expected to be very low.
     TODO
 Describe your approach for evaluating your low-fi prototypes, present your results and your conclusion. 
 Upload the document shared with the stakeholder to the "deliverables" folder and include the link here.
