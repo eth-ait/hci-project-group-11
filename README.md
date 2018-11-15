@@ -99,7 +99,22 @@ Use information from the environment (volume, amout of people, devices nearby) t
 <img align="left" width="200" src="img/idea_sensors.jpg">
 
 <img align="left" width="200" src="img/idea_socialmusic.jpg">
-<br>
+
+<br />
+
+During prototyping we are focusing on the potential features and user interfaces for Teufel's Raumfeld app.
+The goal is to provide an interface to the user to display his current (automatically detected mood) in a readable format and give the user the possbility to adjust it accordingly.
+To represent the mood we have to find the right keywords to make a specific mood state understandable for the general user.
+
+Furthermore there are multiple options on how to display those options to the user. As a reference we looked at the screen brightness settings on a smartphone. The inital brightness is detected by the system but the user can still easily interact with a slider to adjust the brightness according to his/her liking.
+
+The first option is to dislay each factor seperately using sliders. This way the user can specifically adjust each factor separately but in return might be overwhelmed by the amount of options.
+![](img/interface2/Folie5.png)
+
+The second interface uses a navigator in a 2D grid that can freely be moved around. Depending on where on the grid we find ourself, the chosen factors on the axis are taken into consideration according to the distance to the center of the grid. This allows for a very fast and easy adjustment but losing out on the option of fine-tuning each factor itself.
+![](img/interface2/Folie7.png)
+
+    TODO: Social feature: what is it, what do we try to achieve
     
 ## Evaluation
     TODO
