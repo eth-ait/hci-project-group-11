@@ -1,5 +1,5 @@
 <p align="left" width="100%">
-  <img style="width:30%;align:left" src="https://github.com/eth-ait/HCI-fall-2018-project-page/blob/master/img/logo-ait.png">             
+  <img style="width:30%;align:left" src="https://ait.ethz.ch/img/logo-ait.png"> 
 </p>
 
 # Sense Users Musical Mood, Group 11
@@ -122,9 +122,21 @@ In a first iteration we want to find out what factors are used best to help iden
 
 To do so we set up a survey that that first asks the user to select factors that the user associates most with mood. This will help us determine which factors we should use on the interface.
 In the second step the user listens to three different songs and has to determine for each given factor how much that song corresponds to a given factor. For example in a classic piece of Mozart the "dancability" factor is expected to be very low.
-    TODO
-Describe your approach for evaluating your low-fi prototypes, present your results and your conclusion. 
-Upload the document shared with the stakeholder to the "deliverables" folder and include the link here.
+
+The attribute words we chose to evaluate were: loudness, happiness, speechiness, tempo, energy, danceability.
+
+WE conducted a survey asking users to rate 3 songs based on these attributes. The results were as follows:
+
+![]img/survey_avg
+![]img/survey_stddev
+
+WE then compared these values to the values provided to us by Spotify:
+![]img/survey_error
+
+Based on the results of the initial survey, it was not clear if there was a subset of distinguishing characteristics that users would likely be able to . There was a wide spread in opinion amongst respondents. However in terms of accuracy (compared with the Spotify-generated feature values), loudness, energy and happiness topped the list in being consistent compared to user's understandings of the attribute words.
+
+
+    TODO: Describe your approach for evaluating your low-fi prototypes, present your results and your conclusion. Upload the document shared with the stakeholder to the "deliverables" folder and include the link here.
 
 Optional: in this part you can also document the prototyping process: show different iterations, as well as failed ideas (Weeks 6-10)
 
