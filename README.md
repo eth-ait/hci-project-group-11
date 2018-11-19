@@ -103,34 +103,36 @@ Use information from the environment (volume, amout of people, devices nearby) t
 <br />
 
 During prototyping we are focusing on the potential features and user interfaces for Teufel's Raumfeld app.
-The goal is to provide an interface to the user to display his current (automatically detected mood) in a readable format and give the user the possbility to adjust it accordingly.
-To represent the mood we have to find the right keywords to make a specific mood state understandable for the general user.
+The goal is to provide an interface to the user to display his current (automatically detected) mood in a readable format and give the user the possbility to adjust it accordingly.
+To represent the mood we have to find the right keywords to specify a given mood state which are understandable for the general user.
 
 Furthermore there are multiple options on how to display those options to the user. As a reference we looked at the screen brightness settings on a smartphone. The inital brightness is detected by the system but the user can still easily interact with a slider to adjust the brightness according to his/her liking.
 
 The first option is to dislay each factor seperately using sliders. This way the user can specifically adjust each factor separately but in return might be overwhelmed by the amount of options.
 ![](img/interface2/Folie5.png)
 
-The second interface uses a navigator in a 2D grid that can freely be moved around. Depending on where on the grid we find ourself, the chosen factors on the axis are taken into consideration according to the distance to the center of the grid. This allows for a very fast and easy adjustment but losing out on the option of fine-tuning each factor itself.
+The second interface uses a navigator in a 2D grid that can freely be moved around. Depending on where on the grid we find ourself, the chosen factors on the axis are taken into consideration according to the distance to the center of the grid. This allows for a very fast and easy adjustment but losing out on the option of fine-tuning each factor itself. There is also an option to gradually move the slider to the next position to achieve a smooth "mood transition".
 ![](img/interface2/Folie7.png)
 
-    TODO: Social feature: what is it, what do we try to achieve
+In addition we want to implement a social feature where the mood state of multiple present people are taken into account to create and/or adjust a playlist that is currently played. By extending the Raumfeld app and the current mood of the user the user can perform a shake gesture with his phone towards a Teufel speaker which then takes the user's mood into account. By having multiple people doing that the music will match the general mood of the room.
+
+![](img/social_feature.png)
     
 ## Evaluation
 
 In a first iteration we want to find out what factors are used best to help identify a user's mood and how to assign those factors to a given song.
 
-To do so we set up a survey that that first asks the user to select factors that the user associates most with mood. This will help us determine which factors we should use on the interface.
+To do so we set up a survey that first asks the user to select factors which the user associates most with mood. This will help us determine which factors we should use on the interface.
 In the second step the user listens to three different songs and has to determine for each given factor how much that song corresponds to a given factor. For example in a classic piece of Mozart the "dancability" factor is expected to be very low.
 
 The attribute words we chose to evaluate were: loudness, happiness, speechiness, tempo, energy, danceability.
 
-WE conducted a survey asking users to rate 3 songs based on these attributes. The results were as follows:
+We conducted a survey asking users to rate 3 songs based on these attributes. The results were as follows:
 
 ![](img/survey_avg.png?s=300)
 ![](img/survey_stddev.png?s=300)
 
-WE then compared these values to the values provided to us by Spotify:
+We then compared these values to the values provided to us by Spotify:
 ![](img/survey_error.png?s=300)
 
 Based on the results of the initial survey, it was not clear if there was a subset of distinguishing characteristics that users would likely be able to . There was a wide spread in opinion amongst respondents. However in terms of accuracy (compared with the Spotify-generated feature values), loudness, energy and happiness topped the list in being consistent compared to user's understandings of the attribute words.
