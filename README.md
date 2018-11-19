@@ -96,9 +96,9 @@ Use information from the environment (volume, amout of people, devices nearby) t
 
 <img align="left" width="200" src="img/idea_moodselection.jpg">
 
-<img align="left" width="200" src="img/idea_sensors.jpg">
+<img align="left" width="210" src="img/idea_sensors.jpg">
 
-<img align="left" width="200" src="img/idea_socialmusic.jpg">
+<img align="left" width="210" src="img/idea_socialmusic.jpg">
 
 <br />
 
