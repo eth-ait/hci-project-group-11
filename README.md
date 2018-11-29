@@ -137,6 +137,9 @@ We then compared these values to the values provided to us by Spotify:
 
 Based on the results of the initial survey, it was not clear if there was a subset of distinguishing characteristics that users would likely be able to . There was a wide spread in opinion amongst respondents. However in terms of accuracy (compared with the Spotify-generated feature values), loudness, energy and happiness topped the list in being consistent compared to user's understandings of the attribute words.
 
+### Study Report
+To see our full study including results: [Study Report (pdf)](Deliverables/study_report_group_11.pdf)
+
 
     TODO: Describe your approach for evaluating your low-fi prototypes, present your results and your conclusion. Upload the document shared with the stakeholder to the "deliverables" folder and include the link here.
 
