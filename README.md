@@ -137,6 +137,8 @@ We then compared these values to the values provided to us by Spotify:
 
 Based on the results of the initial survey, it was not clear if there was a subset of distinguishing characteristics that users would likely be able to . There was a wide spread in opinion amongst respondents. However in terms of accuracy (compared with the Spotify-generated feature values), loudness, energy and happiness topped the list in being consistent compared to user's understandings of the attribute words.
 
+Since those results were not giving us more progress towards a more refined prototype we decided to conduct a second survey that is focused more on a concrete instance of a prototype. To read more about or studies, check out the Study Report.
+
 ### Study Report
 To see our full study including results: [Study Report (pdf)](Deliverables/study_report_group_11.pdf)
 
@@ -146,6 +148,16 @@ To see our full study including results: [Study Report (pdf)](Deliverables/study
 Optional: in this part you can also document the prototyping process: show different iterations, as well as failed ideas (Weeks 6-10)
 
 ## Final solution
+
+- We dropped the whole sensoring part (HOW the mood gets detected). We assume we have that data
+- Our solution is an extension to the Raumfeld app
+
+- Display and modify the user's current mood using the Navigator OR the sliders
+- Choose genre then refine the attributes to get to the wanted music mood
+(- Change parameters based on the user's current location?)
+- Social feature: mix moods with other users and get corresponding music playlist (i.e. for a party)
+- Explain specific example using 2 personas (analog to our video prototype)
+
     TODO
 Describe your final solution to the problem and the prototype you developed in more detail here.
 Upload your video to the "deliverables" folder and include the link here. 
