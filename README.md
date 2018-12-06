@@ -143,20 +143,20 @@ Since those results were not giving us more progress towards a more refined prot
 To see our full study including results: [Study Report (pdf)](Deliverables/study_report_group_11.pdf)
 
 
-    TODO: Describe your approach for evaluating your low-fi prototypes, present your results and your conclusion. Upload the document shared with the stakeholder to the "deliverables" folder and include the link here.
-
-Optional: in this part you can also document the prototyping process: show different iterations, as well as failed ideas (Weeks 6-10)
+    TODO: Optional: in this part you can also document the prototyping process: show different iterations, as well as failed ideas (Weeks 6-10)
 
 ## Final solution
 
-- We dropped the whole sensoring part (HOW the mood gets detected). We assume we have that data
+- We dropped the whole sensoring part (HOW the mood gets detected). We assume we have that data (Wizard of Oz)
 - Our solution is an extension to the Raumfeld app
 
-- Display and modify the user's current mood using the Navigator OR the sliders
+- Display and modify the user's current mood using the Navigator OR the sliders (elaborate advantages of each)
 - Choose genre then refine the attributes to get to the wanted music mood
 (- Change parameters based on the user's current location?)
 - Social feature: mix moods with other users and get corresponding music playlist (i.e. for a party)
+  - bump phone into speaker (using NFC & motion sensors)
 - Explain specific example using 2 personas (analog to our video prototype)
+  - what that person's problem is and how our solution will solve it
 
     TODO
 Describe your final solution to the problem and the prototype you developed in more detail here.
