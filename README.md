@@ -168,11 +168,19 @@ You can still take direct influence in what is played and you get help in creati
 
 - Bring in your own mood to an ongoing playlist that is powered by Raumfeld by bumping your phone to the speaker! This will transfer your mood setting and your music preferences to the host's system and mix the mood together. Don't lose any time in looking for the owner of the phone that currently playes music to bring in your own suggestions. Simply take use of our Social feature.
   
-TODO: give 2 concrete examples with our personas
+### Peter's solution
+
+TODO: describe how peter uses our solution
+
+### Courtney's solution
+
+TODO: describe how courtney uses our solution
 
 
 To see our application in action, check out our video here: TODO
 
+
+  
 
     TODO
 Describe your final solution to the problem and the prototype you developed in more detail here.
