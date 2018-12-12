@@ -86,6 +86,11 @@ Reminder of music you liked to play to boost your mood. Map locations to music t
 #### Social Music
 Use information from the environment (volume, amout of people, devices nearby) to select according playlists to match the mood of all guests.
 
+### Feedback from Stakeholder
+After a discussion with our stakeholder we came to the following conclusion:  
+The Big Teufel Button is a very good idea isn't as strong as the other's as you are quite limited in the amount of options you have to go from there. Blast to the Past is the most emotional option, which is always a big Factor for Teufel, but our Social Music idea has the most potential for Teufel overall.  
+Therefore we agreed to proceed with a focus of a social feature and the usage of sensors to detect, display and adjust a user's mood and integrate it into his music lifestyle. We therefore build a prototype based on the existing Raumfeld mobile app and won't focus on hardware itself.
+
 ## Prototyping
 
 ### First draft
@@ -101,7 +106,8 @@ Use information from the environment (volume, amout of people, devices nearby) t
 <img align="left" width="202" src="img/idea_socialmusic.jpg">
 
 <br />
-
+   
+   
 During prototyping we are focusing on the potential features and user interfaces for Teufel's Raumfeld app.
 The goal is to provide an interface to the user to display his current (automatically detected) mood in a readable format and give the user the possbility to adjust it accordingly.
 To represent the mood we have to find the right keywords to specify a given mood state which are understandable for the general user.
@@ -144,6 +150,12 @@ To see our full study including results: [Study Report (pdf)](Deliverables/study
 
 
     TODO: Optional: in this part you can also document the prototyping process: show different iterations, as well as failed ideas (Weeks 6-10)
+   
+
+### Feedback from Stakeholder
+
+After presenting our results to Viktor, our stakeholder, we came to the conclusion that we should put algorithmis details aside since it is a very complex area and unfortunately out of scope for this project. We should more focus on the userface and the integration into the user's daily life.
+Additionally, we agreed that the Navigator is a very good, fast and intuitive interface but it won't be enough as a standalone. We should therefore still support a second advanced option for users that want to adjust their mood/music setting in more detail. This can be done using our Slider prototype and an option to define or restrict the genre.
 
 ## Final solution
 
