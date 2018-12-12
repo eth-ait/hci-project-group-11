@@ -159,16 +159,24 @@ Additionally, we agreed that the Navigator is a very good, fast and intuitive in
 
 ## Final solution
 
-- We dropped the whole sensoring part (HOW the mood gets detected). We assume we have that data (Wizard of Oz)
-- Our solution is an extension to the Raumfeld app
+With the limitation in mind that we don't focus in the sensoring part and have the mood input data for the user given, we worked out the following features for the mobile app Raumfeld.
 
-- Display and modify the user's current mood using the Navigator OR the sliders (elaborate advantages of each)
-- Choose genre then refine the attributes to get to the wanted music mood
-(- Change parameters based on the user's current location?)
-- Social feature: mix moods with other users and get corresponding music playlist (i.e. for a party)
-  - bump phone into speaker (using NFC & motion sensors)
-- Explain specific example using 2 personas (analog to our video prototype)
-  - what that person's problem is and how our solution will solve it
+- Easily display and modify the user's current mood using the Navigator interface. You can even enable a transition between two states in the Navigator such that the music adjusts over time from one mood setting to the other!
+
+- If you want to go into pro-mode, you can use our Slider interface which allows a precise definition of the genre you are looking for and the corresponding mood attributes. This way you can restrict the potential music results much better and an improved satisfaction with the music provided by our system will be achieved.
+
+- Depending on where you are currently at and how many people are around you (or how loud it is) the attributes in the mood setting may change. If you are on a party with a lot of people, the attributes will include keywords such as dancability while on a relaxed walk in the park attributes such as ambiance will take over as the prevalent setting.
+
+- If you meet up with other people, use our Social feature! Mix your current mood and preferences with the other users around you. Based on the group's combined mood setting the music will adjust accordingly and provide you with a good sound for everyone's pleasure.  
+You can still take direct influence in what is played and you get help in creating a playlist by receiving suggestions on potential songs that fit in perfectly.
+
+- Bring in your own mood to an ongoing playlist that is powered by Raumfeld by bumping your phone to the speaker! This will transfer your mood setting and your music preferences to the host's system and mix the mood together. Don't lose any time in looking for the owner of the phone that currently playes music to bring in your own suggestions. Simply take use of our Social feature.
+  
+TODO: give 2 concrete examples with our personas
+
+
+To see our application in action, check out our video here: TODO
+
 
     TODO
 Describe your final solution to the problem and the prototype you developed in more detail here.
