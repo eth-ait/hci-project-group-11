@@ -146,11 +146,7 @@ Based on the results of the initial survey, it was not clear if there was a subs
 Since those results were not giving us more progress towards a more refined prototype we decided to conduct a second survey that is focused more on a concrete instance of a prototype. To read more about or studies, check out the Study Report.
 
 ### Study Report
-To see our full study including results: [Study Report (pdf)](Deliverables/study_report_group_11.pdf)
-
-
-    TODO: Optional: in this part you can also document the prototyping process: show different iterations, as well as failed ideas (Weeks 6-10)
-   
+To see our full study including results: [Study Report (pdf)](Deliverables/study_report_group_11.pdf)   
 
 ### Feedback from Stakeholder
 
