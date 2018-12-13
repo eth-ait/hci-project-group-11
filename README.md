@@ -2,7 +2,7 @@
   <img style="width:30%;align:left" src="https://ait.ethz.ch/img/logo-ait.png"> 
 </p>
 
-# Sense Users Musical Mood, Group 11
+# Sense Users' Musical Mood, Group 11
 #### Nathaniel, Florian, Alexandre, Livio, Timon
 
 ## Project description
