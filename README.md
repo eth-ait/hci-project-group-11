@@ -34,7 +34,6 @@ Senior System Administrator: misses the good old days of radio. Listens to a lot
 Construction worker: Casually listens to music. But if he feels like he needs some music, he just wants to put on headphones and have some good music started. Doesn’t want to search ages for some music track he could listen to right now. Most of the time he just listens to the weekly discovery in spotify since he doesn't has any extensive playlists.
 
 
-
 #### Courtney, 21
 <img align="left" width="80" height="80" src="img/persona_courtney.png">
 Instagram Influencer: Plans out all details of her life and takes pictures of everything. Takes public transportation to move between photo shoots, cafe hopping and bringing her dog on walks. Has tons of playlists and songs saved for each given task. Listens to her specific songs given what she is doing right now and how she is feeling. She has different playlists for doing yoga, go running, studying, hanging out with friends and going to bed but also for when she feels sad, lonely or when she is happy and excited.
@@ -72,6 +71,17 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 - Intense, cool, fun
 - Loud
 - Exciting
+
+### Key Ideas
+Out of over 50 ideas we generated the following two key areas
+
+#### Seamless hardware-software integration
+First of all, we want to achieve a fuss free transition between devices. If you leave the house you should have to press a minimum amount of buttons to keep the music playing on your headphones which was previously playing on the speaker. Preferably those transitions are hands-free. We could even take advantage of Smart Home integration. We also want to provide continuity by having the music play where you left the last time. Were you in the middle of an awesome playlist? It will continue playing when you put your headphones back on!  
+Additionally we want to achieve a radio effect by allowing multiple people listening to the same music together. Potentially even across large distances. The music played should be automatically determined using common music preferences.
+
+#### Data-driven music
+Secondly, we need to understand our users through phone and sensor data such as location (GPS), date/time, seasons/holidays, local weather, calendar acvitities, activity and health data. Additionally we want to try understand our user through social media that could help us determine their overall mood and music preferences. This includes listening patterns on streaming services and understanding the user's habits such as how often music is played and what type of music according to a given context.  
+Using sensors in the phone such as the microphone and acceleration sensor we can additionally reveal more information about the mood the user currently is in.
 
 ### Initial project ideas
 
@@ -154,6 +164,8 @@ After presenting our results to Viktor, our stakeholder, we came to the conclusi
 Additionally, we agreed that the Navigator is a very good, fast and intuitive interface but it won't be enough as a standalone. We should therefore still support a second advanced option for users that want to adjust their mood/music setting in more detail. This can be done using our Slider prototype and an option to define or restrict the genre.
 
 ## Final solution
+
+TODO: maybe describe the two big features (discovery/social) more extensively. How they work and all the cool stuff you can do with them.
 
 With the limitation in mind that we don't focus in the sensoring part and have the mood input data for the user given, we worked out the following features for the mobile app Raumfeld.
 
