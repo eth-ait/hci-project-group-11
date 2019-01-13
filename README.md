@@ -165,7 +165,6 @@ Additionally, we agreed that the Navigator is a very good, fast and intuitive in
 
 ## Final solution
 
-TODO: maybe describe the two big features (discovery/social) more extensively. How they work and all the cool stuff you can do with them.
 
 With the limitation in mind that we don't focus in the sensoring part and have the mood input data for the user given, we worked out the following features for the mobile app Raumfeld.
 
@@ -179,23 +178,6 @@ With the limitation in mind that we don't focus in the sensoring part and have t
 You can still take direct influence in what is played and you get help in creating a playlist by receiving suggestions on potential songs that fit in perfectly.
 
 - Bring in your own mood to an ongoing playlist that is powered by Raumfeld by bumping your phone to the speaker! This will transfer your mood setting and your music preferences to the host's system and mix the mood together. Don't lose any time in looking for the owner of the phone that currently playes music to bring in your own suggestions. Simply take use of our Social feature.
-  
-### Peter's solution
-
-TODO: describe how peter uses our solution
-
-### Courtney's solution
-
-TODO: describe how courtney uses our solution
-
-
-To see our application in action, check out our video here: TODO
-
-
-  
-
-    TODO
-Describe your final solution to the problem and the prototype you developed in more detail here.
 
 ## Final Video
 You can find [our Video here](Deliverables/video_final_group_11.mp4).
