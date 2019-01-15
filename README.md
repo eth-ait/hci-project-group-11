@@ -147,15 +147,15 @@ We conducted two complementary, but separate user studies to evaluate the effect
 
 ### First User Study
 
-First we wanted to find out what attributes best identify a user's mood and how best assign those factors to a given song. We found that Spotify's public API for music tracks already provide automatically generated values for some attributes, and so we wanted to see how those stacked against user perceptions.
+First we wanted to find out what attributes best identify a user's mood and how best assign those factors to a given song. We found that Spotify's public API for music tracks already provides automatically generated values for some attributes, and so we wanted to see how those stacked against user perceptions.
 
-To do so, we set up a survey that first asks the user to select factors which the user associates most with mood. We hoped that this would helped us select the attributes we would use in the user interface.
+To do so, we set up a survey that first asks the user to select factors which the user associates most with mood. We hoped that this would help us select the attributes we would use in the user interface.
 
-The second task provided to our respondents required users listen to three different songs, and then rate out of 10 for each music attribute listed. For example, a classic piece from Mozart is expected to have a low "danceability" rating.
+The second task provided to our respondents required users to listen to three different songs, and then rate out of 10 each music attribute listed. For example, a classic piece from Mozart is expected to have a low "danceability" rating.
 
 After reading the musical and scientific literature on mood classification (see example [1]), the attribute words we chose to evaluate were: 
 - loudness: how loud the track is
-- happiness: tracks that are positivity, cheerfulness, euphoric
+- happiness: how positive, cheerful, euphoric the track is
 - speechiness: presence of spoken words in the track
 - tempo: beats per minute
 - energy: intensity and activity
