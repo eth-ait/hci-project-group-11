@@ -89,7 +89,7 @@ Secondly, we need to understand users through phone and sensor data such as loca
 - Using sensors in the phone, such as the microphone, GPS, and acceleration sensors, we can uncover more information about the mood the user may be in and provide even more accurate music predictions or suggestions to the user.
 
 ### Initial project Ideas
-Given Teufel's position as an audio hardware audio company, we thought it was ideal that Teufel brought value to the market in terms of combining sensor data (microphones, GPS location, weather, time of day etc.) with user data (eg. music listening habits and social media profiles) to make the music listening experience even more hassle-free for Teufel users. 
+Given Teufel's position as an audio hardware company, we thought it was ideal that Teufel brought value to the market in terms of combining sensor data (microphones, GPS location, weather, time of day etc.) with user data (eg. music listening habits and social media profiles) to make the music listening experience even more hassle-free for Teufel users. 
 
 Our shortlist of ideas were as follows:
 
