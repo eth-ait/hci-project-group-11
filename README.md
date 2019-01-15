@@ -214,9 +214,12 @@ There are two key elements to our final product, Mood Mode (inspired by users li
 
 ### Mood Mode
 
-![Folie3](img/interface2/Folie3.png?s=300)
-![Folie5](img/final_navigator.jpg?s=300)
-![Folie7](img/final_sliders.jpg?s=300)
+![Folie3](img/interface2/Folie3.png)
+![Folie5](img/final_navigator.jpg)
+![Folie7](img/final_sliders.jpg)
+<img src="img/interface2/Folie3.png" width="100%">
+<img src="img/final_navigator.jpg" width="100%">
+<img src="img/final_sliders.jpg" width="100%">
 
 - Easily display and modify the user's current mood using the 2-dimensional Navigator interface. Users can even use the Navigator to transition between two states so that the music will adjust over time from one mood setting to the other.
 
@@ -227,9 +230,10 @@ There are two key elements to our final product, Mood Mode (inspired by users li
 
 ### Social Mode
 
-![Folie9](img/interface2/Folie9.png?s=300)
-![Folie11](img/interface2/Folie11.png?s=300)
-![Folie12](img/interface2/Folie12.png?s=300)
+![Folie9](img/interface2/Folie9.png)
+![Folie11](img/interface2/Folie11.png)
+![Folie12](img/interface2/Folie12.png)
+
 
 - If you meet up with other people or host social events regularly, we recommend using our Social Mode feature. Mix the current mood and preferences with the other tech-savvy users around you. Based on the group's combined mood, the music will adjust accordingly and provide the gathering appropriately selected songs for everyone's entertainment. Hosts can also choose to override the automatically generated mood by manually selecting one instead.
 
