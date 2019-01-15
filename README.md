@@ -231,7 +231,7 @@ There are two key elements to our final product, Mood Mode (inspired by users li
 ![Folie11](img/interface2/Folie11.png)
 ![Folie12](img/interface2/Folie12.png)
 
-- If you meet up with other people or host social events often, we recommend using our Social Mode feature. Mix the current mood and preferences with the other tech-savvy users around you. Based on the group's combined mood, the music will adjust accordingly and provide the gathering appropriately selected songs for everyone's entertainment. Hosts can also choose to override the autmatically generated mood by manually selecting one instead.
+- If you meet up with other people or host social events regularly, we recommend using our Social Mode feature. Mix the current mood and preferences with the other tech-savvy users around you. Based on the group's combined mood, the music will adjust accordingly and provide the gathering appropriately selected songs for everyone's entertainment. Hosts can also choose to override the automatically generated mood by manually selecting one instead.
 
 - Guests can still directly influence what music is played using a song request feature. This way guests can help the host create a playlist. However, the suggestions can be filtered by requiring them to properly align with the current mood. This is also a great feature for casual deejays who want to handle song requests on the fly. Hosts can still choose to manually accept or reject song requests through a veto setting in the app if desired.
 
