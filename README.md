@@ -18,11 +18,9 @@ Everybody listens to music! The goal is to bring the music system a step further
 - Reduce interaction time needed to control music devices (improve on user experience of plug in earphones/turn on home speaker, pulling out smartphone, unlock phone, open Spotify, start play button)
 - No need for extra hardware to carry with (using native speaker hardware or phone)
 
-
 ### Personas
 
-Who are the users?
-We came up with three interest groups and a concrete samples of a person that fits the given lifestyles.
+"Who are the users?" Music listeners are found everywhere, in the office and at home, even amongst friends. We came up with three interest groups and a concrete samples of a person that fits the given lifestyles.
 
 #### Peter, 62
 <img align="left" width="80" height="80" src="img/persona_peter.png">
@@ -202,13 +200,15 @@ After presenting our results to Viktor from Teufel, our stakeholder, it was deci
 
 Upon discussion the user interfaces that our team had been exploring, Viktor and the team agreed that the 2-Dimensional Navigator is a fast and intuitive interface for users who simply want to choose a mood quickly. However, it might not be sufficient as a standalone interface. For example, an advanced user like Courtney may wish to tweak more than two attributes to get a specific playlist vibe that she wants. Viktor therefore agreed that we the team should explore supporting an "advanced option" for users that want to adjust their mood/music setting in more detail. This can be achieved, for example, through our 1-dimensional Slider prototype and additional drop-down menu to select specific genres.
 
-## Approaching the final solution: an elegant user interface for mood listeners
+## Approaching the final solution: An Elegant User Interface for mood-prediction music software
 
 With the outcome of the discussions with Viktor and the Teufel team in mind that we shifted our focus from exploring sensors and mood classification to developing a responsive and elegant user interface for music listeners.
 
 We assume the availability mood data, ie. the user has provided sufficient training input about their music tastes and made available environmental sensors such that the mood of the user(s) can be predicted with reasobale accuracy. 
 
-How can Teufel's mobile app Raumfeld be improved to accomodate interactivity with such features?
+Another requisite feature that we learnt from user studies was the absolute need for manual closed-loop feedback in our design, to augment the variety of users and inherent difficulty in mapping user's desired mood to a generalized, objective mood classifier. The product would have designed with the principle of "Customer knows best" in mind, meaning that users should have intuitive, complete and final control of the mood selection, even if it means overriding the automatically-generated setting.
+
+At long last, we attempted to answer the million-dollar question: How can Teufel's mobile app Raumfeld be improved to accomodate interactivity with such features?
 
 ## Final Product: A concept user interface for mood-predicted music
 
@@ -246,7 +246,7 @@ There are two key elements to our final product, Mood Mode (inpisre dby users li
 You can find [our Video here](Deliverables/video_final_group_11.mp4).
 
 ## Comments; in closing
-Our team (Group 11) is happy to have worked with Viktor and others at Teufel and were inspired by their vision ofmaking music even easier to listen to, for everyone. The journey was fulfilling and inspiring for us as we had hoped, and the learning process is just as valuable as if not more so than the product that we have designed. Many thanks to David and Seonwook for their ready advice and mentorship.
+Our team (Group 11) is happy to have worked with Viktor and others at Teufel and were inspired by their vision ofmaking music even easier to listen to, for everyone. The journey was fulfilling and inspiring for us as we had hoped, and the learning process is just as valuable as if not more so than the product that we have designed. Many thanks to our TAs, David and Seonwook for their ready advice and mentorship.
 
 ## References
 [1] https://sites.tufts.edu/eeseniordesignhandbook/2015/music-mood-classification/
