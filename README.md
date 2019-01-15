@@ -6,9 +6,9 @@
 #### Nathaniel, Florian, Alexandre, Livio, Timon
 
 ## Project description
-Teufel is a German company focused on providing their clients with excitement in form of music. They offer a big variety of speakers and headsets with all of them focusing on intensity and emotions.
+Teufel is a German company focused on providing their clients with excitement in the form of compelling and emotional music products. They offer a big variety of speakers and headsets with all of them focusing on intensity and emotions.
 
-Everybody listens to music! The goal is to bring the music system a step further and allow a more dynamic and automated music experience to the user. Instead of constantly having to search through playlists to find a good song to play the user should be provided with music whenever and wherever he is. We are looking for more ways to make music more enjoyable.
+Everybody listens to music! The goal is to bring the music system a step further and allow a more dynamic and automated music experience to the user, powered by mood prediction. Instead of constantly having to search through playlists to find a good song to play the user should be provided with music whenever and wherever he is. We are looking for more ways to make music more enjoyable for both casual and dedicated listeners.
 
 ## Ideas
 
@@ -40,21 +40,23 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 
 ### Affinity Clusters
 
+Through brainstorming amongst our team, we came up with some areas surrounding music and mood prediciton that we wanted to explore.
+
 <img align="width:30%;align:left" src="img/affinityclusters_overview.jpeg">
 
-#### Software Features
+#### New Software Features
 - Artifical Intelligence
 - Voice Control (Alexa, Siri, ...)
 - Extension to existing Raumfeld App
 
-#### Teufel Brand
+#### Feeding the Teufel Brand
 - Do it different
 - Niche products
 - Experimental & crazy stuff
 - Fans as customers
 - Direct resell to customers
 
-#### Music Experience
+#### Improving Music Experience
 - Make music more enjoyable
 - Boost emotions
 - Improve music selection
@@ -62,50 +64,54 @@ Instagram Influencer: Plans out all details of her life and takes pictures of ev
 - Suggest songs
 - Reduce burden of searching for music 
 
-#### Hardware
+#### Novel Hardware
 - Mood Button
 - Lightning Sensor
 - Microphone
 
-#### Moods/Emotions/Experience
+#### Engaging Moods/Emotions/Experience
 - Intense, cool, fun
 - Loud
 - Exciting
 
 ### Key Ideas
-Out of over 50 ideas we generated the following two key areas
+Out of the over 50 ideas we generated, it was apparent that there two key areas that were the most promising concerning mood prediction and music.
 
 #### Seamless hardware-software integration
-First of all, we want to achieve a fuss free transition between devices. If you leave the house you should have to press a minimum amount of buttons to keep the music playing on your headphones which was previously playing on the speaker. Preferably those transitions are hands-free. We could even take advantage of Smart Home integration. We also want to provide continuity by having the music play where you left the last time. Were you in the middle of an awesome playlist? It will continue playing when you put your headphones back on!  
-Additionally we want to achieve a radio effect by allowing multiple people listening to the same music together. Potentially even across large distances. The music played should be automatically determined using common music preferences.
+We wanted to explore how music listeners could listen to music more seamlessly.
+
+- Quicker access to music:  If you leave the house you should have to press a minimum amount of buttons to keep the music playing on your headphones which was previously playing on the speaker. Preferably those transitions are hands-free. We could even take advantage of Smart Home integration. 
+- Continuity: We also wanted to explore providing continuity by having the music play where you left the last time. For example if you were in the middle of an awesome playlist but interrupted by a colleage, music will continue playing when you put your headphones back on.
+- Radio effect: Additionally, we wanted to look at recreating a "radio effect" where multiple people listened to the same music together, at the same time. Potentially even across large distances. The music played could be automatically determined using common music preferences.
 
 #### Data-driven music
-Secondly, we need to understand our users through phone and sensor data such as location (GPS), date/time, seasons/holidays, local weather, calendar acvitities, activity and health data. Additionally we want to try understand our user through social media that could help us determine their overall mood and music preferences. This includes listening patterns on streaming services and understanding the user's habits such as how often music is played and what type of music according to a given context.  
-Using sensors in the phone such as the microphone and acceleration sensor we can additionally reveal more information about the mood the user currently is in.
+Secondly, we need to understand users through phone and sensor data such as location (GPS), date/time, seasons/holidays, local weather, calendar acvitities, activity and health data to provide a better music listening experience.
 
-### Initial project ideas
+- We wanted to try understand users through social media that could help us determine their overall mood and music preferences. This includes listening patterns on streaming services and understanding the user's habits such as how often music is played and what type of music according to a given context.  
+- Using sensors in the phone, such as the microphone, GPS, acceleration sensors, we can uncover more information about the mood the user may be in and provide even more accurate music predictions or suggestions to the user.
+
+### Initial project Ideas
 
 Given Teufel's position as a audio hardware audio company, we thought it was ideal that Teufel brought value to the market in terms of combining sensor data (microphones, GPS location, weather, time of day etc.) with user data (eg. music listening habits and social media profiles) to make the music listening experience even more hassle-free for Teufel users. 
 
-Our shortlist of ideas were as follows:
+Our shortlist of ideas were as follows-
 
-1. The Big Teufel Button
-A Surprise me button that features easy-to use instant-music. 
+1. The Big Teufel Button: A Surprise me button that features easy-to use instant-music. 
 
-2. Blast to the Past
-Reminder of music you liked to play to boost your mood. Map locations to music to bring you back on a mind trip through old times.
+2. Blast to the Past: Reminder of music you liked to play to boost your mood. Map locations to music to bring you back on a mind trip through old times.
 
-3. Social Music
-Use information from the environment (volume, amout of people, devices nearby) to select according playlists to match the mood of all guests.
+3. Social Music: Use information from the environment (volume, amout of people, devices nearby) to select according playlists to match the mood of all guests.
 
 See [our presentation](Deliverables/presentation_ideas_10_18.pdf) for the detailed write-up.
 
 ### Feedback from Stakeholder
-After a discussion with our stakeholder we came to the following conclusion:  
+After a discussion with our stakeholder, Viktor from Teufel, we received the following feedback:  
 
-The Big Teufel Button is a very good idea isn't as strong as the other's as you are quite limited in the amount of options you have to go from there. Blast to the Past is the most emotional option, which is always a big Factor for Teufel, but our Social Music idea had the most potential for Teufel overall.  
+- The "Big Teufel Button" was not a strong idea as one was quite limited in the amount of options available
+- Blast to the Past seemed to be the most emotionally compelling option, which fit well with the product goals for Teufel 
+- Our Social Music idea had the biggest potential for Teufel overall and was the option most worth pursuing
 
-Therefore, we agreed to proceed with a focus of a social feature and the usage of sensors to detect, display and adjust a user's mood and integrate it into his music lifestyle. We therefore built a prototype based on the existing the value proposition Raumfeld mobile app that didn't focus on hardware sensors themselves but also .
+Therefore, we agreed to proceed with a focus of a social feature and the usage of sensors to detect, display and adjust a user's mood and integrate it into his music lifestyle. We therefore built a prototype based on the existing the value proposition Raumfeld mobile app that didn't focus on hardware sensors themselves but the user interface that such a product feature would have.
 
 ## Prototyping
 
@@ -120,35 +126,36 @@ Therefore, we agreed to proceed with a focus of a social feature and the usage o
 <img align="left" width="202" src="img/idea_sensors.jpg">
 
 <img align="left" width="202" src="img/idea_socialmusic.jpg">
-
    
-During prototyping we focussed on the potential features and user interfaces for Teufel's Raumfeld app.
-The goal is to provide an interface to the user to display his current (automatically detected) mood in a readable format and give the user the possbility to adjust it accordingly.
-To represent the mood, we had to first find the right keyword (attributes) that both accurately describe a given mood state and that are understandable to the general user.
+During the prototyping phase, we focused on the potential features and user interfaces for Teufel's Raumfeld app. The goal was to provide an interface to the user to display his current (automatically detected) mood in a readable format and give the user the possbility to adjust the default mood accordingly.
 
-Furthermore there are multiple ways to present these settings as an interface for the user. For analogy, we looked at the screen brightness settings on a smartphone. The inital brightness is detected by the system but the user can still easily interact with a slider to adjust the brightness according to his/her liking.
+To represent the mood, we had to first find the right keywords (attributes) that both accurately describe a given mood state and that are understandable to a general user.
+
+Furthermore, there are multiple ways to present these attributes in a user interface. We were inspired by the brightness slider setting found in mobile phones - the default brightness is set by the system but the user can still easily interact with a simple 1-dimensional slider to manually adjust the brightness according to his/her liking.
 
 The first option is to dislay each factor seperately using one-dimensional sliders. This way the user can specifically adjust each factor separately but in return might be overwhelmed by the amount of options.
+
 ![](img/interface2/Folie5.png)
 
 The second interface uses a navigator in a 2-dimensional grid that can freely be moved around. Depending on where on the grid we find ourself, the chosen factors on the axis are taken into consideration according to the distance to the center of the grid. This allows for a very fast and easy adjustment but losing out on the option of fine-tuning each factor itself. There is also an option to gradually move the slider to the next position to achieve a smooth "mood transition".
+
 ![](img/interface2/Folie7.png)
 
-In addition, we want to implement a social feature where the mood state of multiple present people are taken into account to create and/or adjust a playlist that is currently played. By extending Teufel's Raumfeld music app and the current mood of the user, the user can perform a gesture with his phone towards a Teufel speaker which then takes the user's mood into account. The Raumfeld app will be able to combined data from all the connected user's preferences, analyze signals from the ambient environment, and generate a music playlist of  that matches the general mood of the room.
+In addition, we wanted to implement a social feature where the mood state of multiple present people are taken into account to create and/or adjust a playlist that is currently played. By extending Teufel's Raumfeld music app and the current mood of the user, the user can perform a gesture with his phone towards a Teufel speaker which then takes the user's mood into account. The Raumfeld app will be able to combined data from all the connected user's preferences, analyze signals from the ambient environment, and generate a music playlist of  that matches the general mood of the room.
 
 ![](img/social_feature.png)
     
-## Evaluation
+## Evaluating our Social Music Idea
 
 We conducted two complementary but separate user studies to evaluate the effectiveness of our user-interface ideas in helping music listeners to achieve their goals of finding the right music for them.
 
 ### First User Study
 
-In a first iteration we want to find out what factors are used best to help identify a user's mood and how to assign those factors to a given song.
+We first wanted to find out what attributes best identify a user's mood and how best assign those factors to a given song. We found that Spotify's public API for music tracks already provide automatically generated values for some attributes, and so we wanted to see how those stacked against user perceptions.
 
-To do so we set up a survey that first asks the user to select factors which the user associates most with mood. This will help us determine which factors we should use on the interface.
+To do so, we set up a survey that first asks the user to select factors which the user associates most with mood. We hoped that this would helped us select the attributes we would use in the user interface.
 
-The second task provided to our respondents requires the user listen to three different songs, and then rate out of 10 for each given music attribute how much they think that the song can be described by the attrivutre. For example, a classic piece from Mozart is expected to have a low "dancability" factor.
+The second task provided to our respondents required users listen to three different songs, and then rate out of 10 for each music attribute listed. For example, a classic piece from Mozart is expected to have a low "dancability" rating.
 
 After reading the musical and scientific literature on mood classification (see example [1]), the attribute words we chose to evaluate were: 
 - loudness: how loud the track is
@@ -178,20 +185,20 @@ Respondents were asked to rate the attributes of the music they listened to on a
 
 A converse case was then presented in which respondents were given a specific quadarant in a 2-dimensional attribute scale, and asked to think of a specific song in that quadrant. A reference song (generated by the Spotify public API) was then presented to them, and users were asked to rate how similar the reference song was to the one that they thought of.
 
-The findings of the survey indicated that users are extremely divided on their opinions about the attributes of the music and are not always satisfied with the attirbutes and ratings that are automatically generated by servies like the Spotify public API. This made sense because individual music tastes tend to be subjective and widely varying.
+The findings of the survey indicated that users are extremely divided on their opinions about the attributes of the music and are not always satisfied with the attirbutes and ratings that are automatically generated by services like the Spotify public API. This made sense because individual music tastes tend to be subjective and widely varying.
 
 To read more about the studies conducted, please read the the Study Report which provides full details including information about the data collected.
 
 
 ### Study Report
 
-The lessons learnt from this exercise in conducting our studies indicated that that 
+The lessons learnt from this exercise in conducting our studies indicated that closed-loop feedback would be necessary to account for the variation and unpredictability of the users' tastes in music, and that support for this closed loop would need to built into the user interface that we are designing.
 
 Please follow the link to read our full study including results: [Study Report (pdf)](Deliverables/study_report_group_11.pdf)   
 
 ### Feedback from Stakeholder
 
-After presenting our results to Viktor from Teufel, our stakeholder, it was decided that we should put algorithms details aside since it is a very complex area and unfortunately out of scope for the course project. Instead more focus was to be placed on designing concept user interface that already assumes a backend sensor and database suite that is able provide accurate music prediction and mood detection services.
+After presenting our results to Viktor from Teufel, our stakeholder, it was decided that we should put algorithms details aside since it is a very complex area and unfortunately out of scope for the course project. Instead, our focus would be turned to designing a concept user interface that already assumes a backend sensor and database suite that is able provide accurate music prediction and mood detection services.
 
 Upon discussion the user interfaces that our team had been exploring, Viktor and the team agreed that the 2-Dimensional Navigator is a fast and intuitive interface for users who simply want to choose a mood quickly. However, it might not be sufficient as a standalone interface. For example, an advanced user like Courtney may wish to tweak more than two attributes to get a specific playlist vibe that she wants. Viktor therefore agreed that we the team should explore supporting an "advanced option" for users that want to adjust their mood/music setting in more detail. This can be achieved, for example, through our 1-dimensional Slider prototype and additional drop-down menu to select specific genres.
 
@@ -203,7 +210,7 @@ We assume the availability mood data, ie. the user has provided sufficient train
 
 How can Teufel's mobile app Raumfeld be improved to accomodate interactivity with such features?
 
-## Final Product
+## Final Product: A concept user interface for mood-predicted music
 
 There are two key elements to our final product, Mood Mode (inpisre dby users like Peter) and Social Mode (inspired by users like Courtney). These are novel ways of listening to music that are designed to inspire, delight and surprise users with new music that suits the very mood that they are in, without having to press more than a few buttons to get started.
 
