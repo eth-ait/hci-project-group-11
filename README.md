@@ -215,8 +215,8 @@ There are two key elements to our final product, Mood Mode (inspired by users li
 ### Mood Mode
 
 ![Folie3](img/interface2/Folie3.png)
-![Folie5](img/interface2/Folie5.png)
-![Folie7](img/interface2/Folie7.png)
+![Folie5](img/final_navigator.jpg)
+![Folie7](img/final_sliders.jpg)
 
 - Easily display and modify the user's current mood using the 2-dimensional Navigator interface. Users can even use the Navigator to transition between two states so that the music will adjust over time from one mood setting to the other.
 
