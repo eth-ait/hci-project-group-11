@@ -245,7 +245,7 @@ There are two key elements to our final product, Mood Mode (inpisre dby users li
 You can find [our Video here](Deliverables/video_final_group_11.mp4).
 
 ## Comments; in closing
-Our team (Group 11) is happy to have worked with Viktor and others at Teufel and were inspired by their vision ofmaking music even easier to listen to, for everyone. The journey was fulfilling and inspiring for us as we had hoped, and the learning process is just as valuable as if not more so than the product that we have designed. Many thanks to our TAs, David and Seonwook for their ready advice and mentorship.
+Our team (Group 11) is happy to have worked with Viktor and others at Teufel and were inspired by their vision of making music even easier to listen to, for everyone. The journey was fulfilling and inspiring for us as we had hoped, and the learning process is just as valuable as if not more so than the product that we have designed. Many thanks to our TAs, David and Seonwook for their ready advice and mentorship.
 
 ## References
 [1] https://sites.tufts.edu/eeseniordesignhandbook/2015/music-mood-classification/
