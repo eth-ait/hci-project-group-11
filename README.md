@@ -214,7 +214,7 @@ There are two key elements to our final product, Mood Mode (inspired by users li
 
 ### Mood Mode
 
-![Folie3](img/interface2/Folie3.png)
+![Folie3](img/final_mood.jpg)
 ![Folie5](img/final_navigator.jpg)
 ![Folie7](img/final_sliders.jpg)
 
