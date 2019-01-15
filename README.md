@@ -106,7 +106,7 @@ After a discussion with our stakeholder, Viktor, our contact from Teufel, we rec
 - Blast to the Past seemed to be the most emotionally compelling option, which fit well with the product goals for Teufel.
 - Our Social Music idea had the biggest potential for Teufel overall and was the option most worth pursuing.
 
-Therefore, we agreed to proceed with a focus of a social feature and the usage of sensors to detect, display and adjust a user's mood and integrate it into their music lifestyle. We therefore shifted gears and focused on builing a user interface prototype based on the existing the value proposition of the Raumfeld mobile app provided by Teufel. 
+Therefore, we agreed to proceed with a focus of a social feature and the usage of sensors to detect, display and adjust a user's mood and integrate it into their music lifestyle. We therefore shifted gears and focused on building a user interface prototype based on the existing value proposition of the Raumfeld mobile app provided by Teufel. 
 
 
 ## Prototyping
