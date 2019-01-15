@@ -137,7 +137,7 @@ The second interface uses a navigator in a 2-dimensional grid that can freely be
 
 ![](img/interface2/Folie7.png)
 
-In addition, we wanted to implement a social feature. We envisioned a platform where the mood state of multiple present people could be taken into account to create and/or adjust a playlist that is currently being played. By extending Teufel's Raumfeld music app and the current mood of the user, the user can perform a gesture with his phone towards a Teufel speaker which then takes the user's mood into account. The Raumfeld app will be able to combined data from all the connected user's preferences, analyze signals from the ambient environment, and generate a music playlist that matches the general mood of the room.
+In addition, we wanted to implement a social feature. We envisioned a platform where the mood state of multiple present people could be taken into account to create and/or adjust a playlist that is currently being played. By extending Teufel's Raumfeld music app and the current mood of the user, the user can perform a gesture with his phone towards a Teufel speaker which then takes the user's mood into account. The Raumfeld app will be able to combine data from all the connected user's preferences, analyze signals from the ambient environment, and generate a music playlist that matches the general mood of the room.
 
 ![](img/social_feature.png)
     
